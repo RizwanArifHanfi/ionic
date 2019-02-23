@@ -29,7 +29,7 @@ export class HomePage {
   marker: any;
   currentMapTrack = null;
 
-  api_url: any = 'http://103.234.94.132/ci_franchise/test';
+  api_url: any = 'http://example.com/api';
 
   interval = 1000;
   isTracking = false;
